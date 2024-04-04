@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  #icon-whatsapp {
+    background-color: #25d366;
+    color: white;
+    padding: 10px;
+    font-size: 30px;
+    border-radius: 40px;
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 9999;
+  }
+  
+  
+  
+  
